@@ -2,7 +2,7 @@
 
 title: 细说「幂等」
 date: 2017-12-21 15:00:00
-tags: [architecture, idempotent]
+tags: [Architecture, idempotent]
 excerpt: 幂等（idempotent）是一个数学 / 计算机学的概念。
 
 ---

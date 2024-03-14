@@ -2,7 +2,7 @@
 
 title: 架构演进 at ArchSummit2016
 date: 2016-12-07 21:03:48
-tags: [architecture]
+tags: [Architecture]
 excerpt: 记录链家网架构演进的过程
 
 ---

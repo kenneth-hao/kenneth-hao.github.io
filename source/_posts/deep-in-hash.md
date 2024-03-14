@@ -2,7 +2,7 @@
 
 title: Hash 解读
 date: 2018-01-13 11:30:00
-tags: [algorithm, hash]
+tags: [algorithm, Hash]
 excerpt: 只要我们在互联网上活动，都会在无意中用到和 Hash 相关的内容。
 
 ---

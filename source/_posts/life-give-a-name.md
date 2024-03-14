@@ -2,7 +2,7 @@
 
 title: 给娃起名儿!
 date: 2024-03-13 16:30
-tags: [Life, Child]
+tags: [Life]
 excerpt: 距离崽子出生没多久了，得抓紧时间给崽子起几个名字了
 
 ---

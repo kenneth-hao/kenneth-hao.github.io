@@ -1,6 +1,6 @@
 title: About Maven
 date: 2016-09-09 12:30:00
-tags: [maven]
+tags: [Maven]
 excerpt: 早期的 Maven 分享记录
 
 ---

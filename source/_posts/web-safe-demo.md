@@ -2,7 +2,7 @@
 
 title: 常见的 Web Safe 攻防战 
 date: 2018-08-12 16:30:00
-tags: [web, security, xss, csrf]
+tags: [Web, Security, XSS, CSRF]
 excerpt: Web 安全演示分享
 
 ---
