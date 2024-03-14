@@ -2,7 +2,7 @@
 
 title: Analyze Thread Backlog via Thread-dump
 date: 2019-09-16 19:50:22
-tags: [java, thread, dump]
+tags: [Java, thread-dump]
 excerpt: 线程积压案例分析
 
 ---

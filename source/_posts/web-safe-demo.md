@@ -2,7 +2,7 @@
 
 title: 常见的 Web Safe 攻防战 
 date: 2018-08-12 16:30:00
-tags: [web, security, xss, csrf, demo]
+tags: [web, security, xss, csrf]
 excerpt: Web 安全演示分享
 
 ---
@@ -159,7 +159,6 @@ Em………..
 > 只要不拼接 SQL，怎么样都行
 >
 > 脚本语言（PHP、Python），要特别注意！！
-
 
 
 

@@ -2,7 +2,7 @@
 
 title: Heap OutOfMemory - ScheduledFutureTask
 date: 2020-03-10 20:50:55
-tags: [OutOfMemory, OOM, ScheduledFutureTask, Hystrix, Timeout, Java]
+tags: [OOM, Java]
 excerpt: OOM 案例分析
 
 ---
